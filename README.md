@@ -20,7 +20,7 @@ Download and run in a console Windows EXE file:
 https://sourceforge.net/projects/getasixchannelinfo/
 
 
-![](https://github.com/rafalkarny/GetAsixChannels/tree/main/giffs/downloadFile.gif)
+![](https://github.com/rafalkarny/GetAsixChannels/giffs/downloadFile.gif)
 
 Option 2:
 Download repository code and install dependencies (below)
