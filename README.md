@@ -6,6 +6,9 @@ Get asix channels info from XML file (usually in /AsixProject_Directory/DataServ
 Working with Asix 9 and propablly newer versions. - Not checked
 
 
+## Demo
+
+![](https://github.com/rafalkarny/GetAsixChannels/blob/main/giffs/DEMO.gif)
 
 ## Authors
 
@@ -42,10 +45,8 @@ Download repository code and install dependencies (below)
 GENERATE DIAGRAM:
 ![](https://github.com/rafalkarny/GetAsixChannels/blob/main/giffs/GenerateDiagram.gif)
 
-
-## Demo
-
-Insert gif or link to demo
+EXPORT TO EXCEL"
+![](https://github.com/rafalkarny/GetAsixChannels/blob/main/giffs/GenerateExcel.gif)
 
 
 ## Dependencies
