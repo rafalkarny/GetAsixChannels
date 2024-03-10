@@ -30,7 +30,7 @@ Download repository code and install dependencies (below)
 
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT](https://github.com/rafalkarny/GetAsixChannels/blob/main/LICENSE.md)
 
 
 ## Usage/Examples
@@ -38,6 +38,9 @@ Download repository code and install dependencies (below)
 ```Powershell
 ./asixOLDparser.exe sampleFile.xml
 ```
+
+GENERATE DIAGRAM:
+![](https://github.com/rafalkarny/GetAsixChannels/blob/main/giffs/GenerateDiagram.gif)
 
 
 ## Demo
